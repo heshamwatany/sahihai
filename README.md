@@ -35,3 +35,35 @@ The main important point is not to get biased by our belief of specific books ar
 * We can use unsupervised learning to detect patterns, like clustering or anomaly detection. (We should ask AI professionals)
 * The amount of data to be normalized and made ready for the modules.
 Gathering AI professionals with Islamic schoolers and all work under scientific methodologies with being biased.
+
+### Steps to start this project
+
+1. Define the scope and objectives of the project:
+ - Define the problem statement: "Can we use AI to determine the authenticity of Hadiths?"
+ - Set the project goals and objectives: To build an open-source AI model that can analyze and classify Hadiths based on their authenticity using unsupervised learning techniques.
+ - Determine the project timeline, budget, and resources required.
+2. Gather a team with diverse expertise:
+ - Bring together a team of AI professionals, Islamic scholars, and experts in the field of Hadith studies.
+ - Assign roles and responsibilities to team members based on their expertise.
+3. Gather and normalize data:
+ - Gather a large dataset of Hadiths from different sources.
+ - Normalize the data by removing any irrelevant information and ensuring that it is in a format that can be processed by the AI model.
+4. Determine the features and algorithms to be used:
+ - Define the features that the AI model will analyze, such as the language used, the context in which the Hadith was spoken, and the source of the Hadith.
+ - Select the unsupervised learning algorithms that will be used to analyze the data, such as clustering or anomaly detection.
+5. Develop and train the AI model:
+ - Develop the AI model using the selected algorithms and features.
+ - Train the model using the normalized data.
+ - Continuously monitor and evaluate the performance of the model and make adjustments as necessary.
+6. Validate the model:
+ - Validate the accuracy of the model by comparing its predictions to the known authenticity of a subset of the Hadiths in the dataset.
+ - Continuously test and validate the model using new data.
+7. Publish and share the results:
+ - Publish the results of the project as an open-source software tool.
+ - Encourage others to use the tool and contribute to its development.
+ - Share the results of the project with the wider community through papers, conferences, and other forums.
+8. Ensure scientific rigor and avoid bias:
+ - Use scientific methodologies throughout the project, including data collection, normalization, and model development.
+ - Avoid bias by ensuring that the model is agnostic to books and sources of the Hadiths and that the analysis is based on scientific logic rather than personal beliefs.
+
+> By following these steps, the project can be started and developed with scientific rigor and community involvement.
