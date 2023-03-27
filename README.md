@@ -36,6 +36,11 @@ The main important point is not to get biased by our belief of specific books ar
 * The amount of data to be normalized and made ready for the modules.
 Gathering AI professionals with Islamic schoolers and all work under scientific methodologies with being biased.
 
+### Important Links
+1. [Hadith Data Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets)
+2. [Sunnah GPT](https://github.com/hazemabdelkawy/SunnahGPT)
+3. https://github.com/search?q=Hadith
+
 ### Steps to start this project
 
 1. Define the scope and objectives of the project:
