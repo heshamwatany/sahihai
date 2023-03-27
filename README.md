@@ -39,7 +39,7 @@ Gathering AI professionals with Islamic schoolers and all work under scientific 
 ### Important Links
 1. [Hadith Data Sets](https://github.com/abdelrahmaan/Hadith-Data-Sets)
 2. [Sunnah GPT](https://github.com/hazemabdelkawy/SunnahGPT)
-3. https://github.com/search?q=Hadith
+3. [Github Search Query - Hadith](https://github.com/search?q=Hadith)
 
 ### Steps to start this project
 
