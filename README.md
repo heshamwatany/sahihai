@@ -10,7 +10,7 @@ After the huge development of AI and technology in recent years, we as Muslims s
 
 Please note that I am not an AI professional, I am just a person who has ideas with a background in business, software engineering, product management, and media production. You can use my ideas, and you have the full rights to use them or edit them.
 
-### Old Thought as a Child
+### Old Thoughts
 
 I was always asking about Sunnah and how we know that a Hadith is from the prophet. As a child living in Egypt in the age of technology, I didn’t know who is that person that says they heard the prophet saying Hadith or heard someone that heard from the prophet.
 
